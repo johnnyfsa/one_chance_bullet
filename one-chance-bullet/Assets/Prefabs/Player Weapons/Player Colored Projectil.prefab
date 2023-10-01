@@ -180,3 +180,4 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   color: {r: 0, g: 0.16862746, b: 1, a: 1}
+  player: {fileID: 4286263050906024749, guid: c42ccae35888b417e89faee0985c801c, type: 3}
